@@ -1,0 +1,19 @@
+.configuracao {
+    width: 30px;
+  }
+  .menu {
+    width: 30px;
+  }
+  .perfil {
+    width: 30px;
+  }
+  nav li{
+    display: inline-block;
+    margin: 0 0 0 15px;
+  }
+
+  nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}

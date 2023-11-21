@@ -1,0 +1,33 @@
+.configuracao {
+    width: 30px;
+  }
+.entrar {
+  width: 10px;
+}
+  .menu {
+    width: 30px;
+  }
+  .perfil {
+    width: 30px;
+  }
+  nav li{
+    display: inline-block;
+    margin: 0 0 0 15px;
+  }
+
+  nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.titulo{ 
+  background-color: rgb(170, 88, 88);
+  color: aliceblue;
+  width: 300px;
+  height: 90px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  border: solid;
+  border-color:rgb(134, 105, 16);
+  font-size:20px; }   
